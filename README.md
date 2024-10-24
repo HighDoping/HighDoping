@@ -55,3 +55,12 @@ And more...
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighDoping&size_weight=0.5&count_weight=0.5&layout=compact&card_width=500" />
 </picture>
 </p>
+
+<p align="center">
+<picture>
+  <source
+    srcset="https://www.boincstats.com/signature/-1/bam/38212/sig.png"
+  />
+  <img src="https://www.boincstats.com/signature/-1/bam/38212/sig.png" />
+</picture>
+</p>
