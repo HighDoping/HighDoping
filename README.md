@@ -13,12 +13,20 @@ And more...
 
 ## Highlight Projects
 
+<a href="https://github.com/HighDoping/Wan2.1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HighDoping&repo=Wan2.1&show_icons=true&description_lines_count=2" alt="Wan2.1" />
+</a>
+
 <a href="https://github.com/HighDoping/PicFinder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HighDoping&repo=PicFinder&show_icons=true&description_lines_count=2" alt="PicFinder" />
 </a>
 
 <a href="https://github.com/HighDoping/LLM-Steganography">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HighDoping&repo=LLM-Steganography&show_icons=true&description_lines_count=2" alt="LLM-Steganography" />
+</a>
+
+<a href="https://github.com/HighDoping/AV2Sub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HighDoping&repo=AV2Sub&show_icons=true&description_lines_count=2" alt="AV2Sub" />
 </a>
 
 ## Contact 📫
